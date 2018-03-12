@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.user
+/bin
+/obj
+/ipch
+/test
+/MFCMapi.VC.db
+/MFCMapi.VC.VC.opendb
+/MFCMapi.pdb
+/MFCMapi.exe
+/MrMAPI.pdb
+/MrMAPI.exe
+*.psess
+*.vspx
+/MFCMapi.aps
+/MrMapi/MrTag.pdb
+/MrMapi/MrTag.dll
+/.vs
+/TestResults/*
